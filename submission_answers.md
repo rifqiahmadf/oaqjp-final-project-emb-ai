@@ -2,7 +2,7 @@
 
 ## Question 1
 Replace with your public GitHub URL after pushing this repo:
-`https://github.com/<your-username>/emotion-detector/blob/main/README.md`
+`https://github.com/<your-username>/oaqjp-final-project-emb-ai/blob/main/README.md`
 
 ## Question 2
 Paste the contents of `2a_emotion_detection.txt`.
@@ -18,7 +18,7 @@ Paste the contents of `3b_formatted_output_test.txt`.
 
 ## Question 6
 Replace with your public GitHub URL after pushing this repo:
-`https://github.com/<your-username>/emotion-detector/blob/main/EmotionDetection/__init__.py`
+`https://github.com/<your-username>/oaqjp-final-project-emb-ai/blob/main/EmotionDetection/__init__.py`
 
 ## Question 7
 Paste the contents of `4b_packaging_test.txt`.
