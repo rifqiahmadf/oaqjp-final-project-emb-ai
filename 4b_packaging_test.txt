@@ -1,0 +1,2 @@
+<module 'EmotionDetection' from 'D:\\project\\emotion-detector\\EmotionDetection\\__init__.py'>
+{'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 1.0, 'sadness': 0.0, 'dominant_emotion': 'joy'}
